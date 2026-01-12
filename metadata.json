@@ -1,0 +1,8 @@
+{
+  "name": "AI Automation Portfolio",
+  "description": "A professional showcase for AI automation and development work, featuring n8n workflow integrations and an interactive AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
